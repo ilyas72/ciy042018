@@ -1,0 +1,39 @@
+/*.my-color {
+    color:red;
+    font-size:28px;
+    background-color: blueviolet;
+}
+.my-div {
+    background-color: black;
+    color: white;
+}*/
+
+.outer-div{
+    background-color:blue;
+    color:white;
+}
+
+.inner-div {
+    border:20px dashed red;
+    background-color: black;
+    color:white;
+    margin:20px;
+    padding:20px;
+    width:200px;
+    height:400px;
+}
+
+.box-responsive{
+    max-width: 100%;
+    background-color: black;
+}
+
+.my-ul{
+    list-style-type:armenian;
+}
+.my-image{
+    display: block;
+    max-width: 200px;
+    margin: 1rem auto;
+
+}
