@@ -1,0 +1,13 @@
+@media (min-width:768px){
+
+    .my-title {
+        font-size: 60px;
+    } 
+}
+
+@media (max-width:786px){
+
+    .my-title {
+        color: red;
+    }
+}
