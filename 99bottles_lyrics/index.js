@@ -1,19 +1,19 @@
-console.log('Beer bottle!');
+console.log('Botol Air!');
 
 var bottles;
 for (counter = 99; counter >= 1; counter = counter - 1) 
 {
     if (counter == 1) {
-        bottles = 'bottle';
+        bottles = 'Botol';
     } else {
-        bottles = 'bottles';
+        bottles = 'botols';
     }
-    console.log(counter+" "+bottles+" of beer on the wall.");
+    console.log(counter+" "+bottols+" of botol susu on the wall.");
     if (counter < 99) {
         console.log("");
-        console.log(counter+" "+bottles+" of beer on the wall.");
+        console.log(counter+" "+bottles+" of botol susu on the wall.");
     }
-    console.log(counter+" "+bottles+" of beer.");
+    console.log(counter+" "+bottles+" of botol susu.");
     console.log("Take one down.");
     console.log("Pass it around.");
     if (counter == 1) {
